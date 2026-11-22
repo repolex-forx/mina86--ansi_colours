@@ -30,6 +30,170 @@
       ],
       "ast": [
         "aggregate/ast/84c64b3d560b51a15a9889f30ebb977815d3945e/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/84c64b3d560b51a15a9889f30ebb977815d3945e.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "ansi_term",
+          "ecosystem": "CARGO",
+          "version": "0.12",
+          "githubOrg": "ogham",
+          "githubRepo": "rust-ansi-term",
+          "githubUrl": "https://github.com/ogham/rust-ansi-term",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rgb",
+          "ecosystem": "CARGO",
+          "version": "0.8",
+          "githubOrg": "kornelski",
+          "githubRepo": "rust-rgb",
+          "githubUrl": "https://github.com/kornelski/rust-rgb",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "termcolor",
+          "ecosystem": "CARGO",
+          "version": ">= 1.0, <= 1.2",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "termcolor",
+          "githubUrl": "https://github.com/BurntSushi/termcolor",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "crc64",
+          "ecosystem": "CARGO",
+          "version": "2",
+          "githubOrg": "badboy",
+          "githubRepo": "crc64-rs",
+          "githubUrl": "https://github.com/badboy/crc64-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "criterion",
+          "ecosystem": "CARGO",
+          "version": "0.5",
+          "githubOrg": "criterion-rs",
+          "githubRepo": "criterion.rs",
+          "githubUrl": "https://github.com/criterion-rs/criterion.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "empfindung",
+          "ecosystem": "CARGO",
+          "version": "0.2.6",
+          "githubOrg": "mina86",
+          "githubRepo": "empfindung",
+          "githubUrl": "https://github.com/mina86/empfindung",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "lab",
+          "ecosystem": "CARGO",
+          "version": ">=0.4, <1.0",
+          "githubOrg": "TooManyBees",
+          "githubRepo": "lab",
+          "githubUrl": "https://github.com/TooManyBees/lab",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "builtins",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "collections",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "fractions",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "codecs",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "functools",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "std/src/env.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        },
+        {
+          "packageName": "alloc/src/vec/mod.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        },
+        {
+          "packageName": "core/src/iter/traits/iterator.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        },
+        {
+          "packageName": "std/src/macros.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        },
+        {
+          "packageName": "std/src/process.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        },
+        {
+          "packageName": "core/src/macros/mod.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        },
+        {
+          "packageName": "core/src/slice/mod.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        },
+        {
+          "packageName": "sys",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        },
+        {
+          "packageName": "math",
+          "ecosystem": "PYPI",
+          "githubOrg": "python",
+          "githubRepo": "cpython",
+          "source": "stdlib:python"
+        }
       ]
     }
   ],
