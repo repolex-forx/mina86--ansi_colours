@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "mina86",
+  "repo": "ansi_colours",
+  "versions": [
+    {
+      "commit": "84c64b3d560b51a15a9889f30ebb977815d3945e",
+      "parsed_at": "2026-11-22T23:12:36.223575+00:00",
+      "tag": "v1.2.2",
+      "filetree": "filetree/84c64b3d560b51a15a9889f30ebb977815d3945e.nq.gz",
+      "blobs": [
+        "blob/99259fb27c37891a0e935d7f7d60959f11c4f27e.nq.gz",
+        "blob/bf479e08272eca695ea32106bedf6c9094264094.nq.gz",
+        "blob/46f4db9637615a33f4d57151bdf5de7c92bc6319.nq.gz",
+        "blob/4de5798c91c93a9a553b96e58870399bcd9a32e7.nq.gz",
+        "blob/014c59a5ea24c3a4a99a39bd83a5d8714aed7349.nq.gz",
+        "blob/8d15f7e370b48a1954765928c4a5dab29e60eb4a.nq.gz",
+        "blob/5ad17b1d4d9db122534c6834c324b00eebc822a2.nq.gz",
+        "blob/3e20ce9de8bae407a0817759d3e868e6e5bb079c.nq.gz",
+        "blob/c4f2fb3e0989e54bcfce19db36d6932cfb4a4a48.nq.gz",
+        "blob/9a3753b4f644f75c6021f0e772118f3411a9a4cb.nq.gz",
+        "blob/ecb8d0926fa1526e29dbd4d637f51d532ef2f6fa.nq.gz",
+        "blob/0a041280bd00a9d068f503b8ee7ce35214bd24a1.nq.gz",
+        "blob/d25c8cc7ff6b78d003c087d4ba4d75c5cc0770c0.nq.gz",
+        "blob/28d05dfc1f45aecb72d39c5be5ac5b76745528e5.nq.gz",
+        "blob/03d235600e1ca241f1c83e7e94d7594fe93b8a5f.nq.gz",
+        "blob/096b9a94d3c50f28232e879f555575097b0249c9.nq.gz",
+        "blob/f0f482375b28ae1c3c5ac281208a5b7219acf13e.nq.gz",
+        "blob/c1163d8c1bd4c32b5e546ee6b838e91dd6f5f7cd.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
