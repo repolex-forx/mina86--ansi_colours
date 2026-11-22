@@ -1,0 +1,11 @@
+{
+  "org": "mina86",
+  "repo": "ansi_colours",
+  "versions": [
+    {
+      "commit": "84c64b3d560b51a15a9889f30ebb977815d3945e",
+      "tag": "v1.2.2",
+      "parsed_at": "2026-11-22T23:27:03.952515+00:00"
+    }
+  ]
+}
